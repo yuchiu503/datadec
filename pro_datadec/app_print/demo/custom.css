@@ -1,0 +1,14 @@
+.sidebar-header {
+    /* CSS styles for the sidebar header */
+    background-image: url('path/to/logo.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding: 10px 20px;
+}
+
+.sidebar-header h1 {
+    /* CSS styles for the header title */
+    margin: 0;
+    color: #333;
+}
+
